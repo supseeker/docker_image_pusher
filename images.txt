@@ -1,1 +1,2 @@
-bestoray/pgyvpn
+#bestoray/pgyvpn
+ghcr.io/open-webui/open-webui:main
